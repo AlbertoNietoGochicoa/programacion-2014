@@ -1,7 +1,3 @@
 # Programación 2014
 
-Ejercicios y ejemplos de la asignatura.
-
-dlskjhfhjkdsjfhkjsd
-
-Otros cambios.
+Para estar seguros de que he hecho cambios.
